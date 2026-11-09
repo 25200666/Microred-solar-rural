@@ -2,9 +2,12 @@
 
 Proyecto final de **Arquitectura del Computador** (2026-2) con Raspberry Pi Pico 2 W.
 
-**Equipo:** Byte me
-**Integrantes:** Paul Adrian Horna Yarasca, Michelle Grace Curi Silva
-**Proyecto:** N.º 10, Microred solar rural
+**Equipo:** Byte me  
+
+**Integrantes:** Paul Adrian Horna Yarasca, Michelle Grace Curi Silva  
+
+**Proyecto:** N.º 10, Microred solar rural  
+
 
 ## Problema
 
