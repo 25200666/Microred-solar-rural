@@ -36,7 +36,7 @@ Los dos INA219 comparten el bus I2C con direcciones distintas.
 
 ## Reto de arquitectura
 
-**Dos núcleos del RP2350** (por confirmar): un núcleo se encarga de la adquisición de sensores y del servo, y el otro de la comunicación Wi-Fi y la nube. Se medirá la regularidad del muestreo y el tiempo del ciclo de lectura con uno y con dos núcleos.
+**Dos núcleos del RP2350** : un núcleo se encarga de la adquisición de sensores y del servo, y el otro de la comunicación Wi-Fi y la nube. Se medirá la regularidad del muestreo y el tiempo del ciclo de lectura con uno y con dos núcleos.
 
 ## Software
 
